@@ -1,3 +1,5 @@
+#CODE FROM pre-config.py
+
 ### withColumns
 data = [
     ("00000", "06-26-2011", 200, "Exercise", "GymnasticsPro", "cash"),
