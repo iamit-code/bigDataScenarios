@@ -1,3 +1,24 @@
 # bigDataScenarios
 Scenario-1
-![scenario-1](https://github.com/user-attachments/assets/ad8acdca-06b0-4103-9500-74e07ebc1d8f)
++---+-----+
+| id| name|
++---+-----+
+|  1|Henry|
+|  2|Smith|
+|  3| Hall|
++---+-----+
++---+------+
+| id|salary|
++---+------+
+|  1|   100|
+|  2|   500|
+|  4|  1000|
++---+------+
+OURPUT :
++---+-----+------+
+| id| name|salary|
++---+-----+------+
+|  1|Henry|   100|
+|  2|Smith|   500|
+|  3| Hall|     0|
++---+-----+------+
