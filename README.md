@@ -41,7 +41,9 @@ Input
 |2020-06-06|       Book |
 |2020-02-06|       Mask |
 |2020-05-30|   T-shirt  |
+
 Output:
+
 |sell_date | products           | null_sell |
 |----------|--------------------|-----------|
 |2020-05-30|[T-shirt,Basketb... |        3  |
