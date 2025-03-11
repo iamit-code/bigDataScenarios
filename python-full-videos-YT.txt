@@ -1,0 +1,196 @@
+Python full videos --:
+
+========
+🔴 Video 1 - Python Intro
+
+https://youtu.be/mpnBNGOSplA
+
+========
+🔴 Video 2 - Python Variables and Types
+
+https://youtu.be/OOvzRzS_eZs
+
+========
+🔴 Video 3 - Python Built-in Functions and Built-in Module
+
+https://youtu.be/C7oahkeJRFg
+
+========
+🔴 Video 4 - Python Strings and Comments
+
+https://youtu.be/PLC_Jn9qCbU
+
+========
+🔴 Video 5 - Boolean, Comparison Operators, and Logical Operators in Python
+
+https://youtu.be/0MBLkNlffT0
+
+========
+🔴 Video 6 - IF ELSE
+
+https://youtu.be/qBpB_ve4sWo
+
+========
+🔴 Video 7 - NESTED IF ELSE
+
+https://youtu.be/7P7KGVwMSIs
+
+========
+🔴 Video 8 - Python Lists
+
+https://youtu.be/MUJ1SuS-KoA
+
+========
+🔴 Video 9 - Python Tuples
+
+https://youtu.be/XQOWZidQSnE
+
+========
+🔴 Video 10 - Python Sets
+
+https://youtu.be/OwDabRSs3h8
+
+========
+🔴 Video 11 - Python Dictionaries
+
+https://youtu.be/aohKO3ferVU
+
+========
+🔴 Video 12 - Slice and Dictionary
+
+https://youtu.be/L22zs3v6Rtg
+
+========
+🔴 Video 13 - Python While Loop
+
+https://youtu.be/aD_If3Lr6dw
+
+========
+🔴 Video 14 - Python For Loop
+
+https://youtu.be/u0ylwy4Mv7A
+
+========
+🔴 Video 15 - Python Break and Continue
+
+https://youtu.be/4qw5atfs_As
+
+========
+🔴 Video 16 - Python Function
+
+https://youtu.be/EHzKEh74sJI
+
+========
+🔴 Video 17 - Python ARGS
+
+https://youtu.be/3nrm-aTCwdQ
+
+========
+🔴 Video 18 - Python Objects
+
+https://youtu.be/QOryrmkr1tA
+
+========
+🔴 Video 19 - Python Classes and Objects
+
+https://youtu.be/NL04MIIP0P0
+
+========
+🔴 Video 20 - Python init and self in class
+
+https://youtu.be/oE_dWWWqxQ0
+
+========
+🔴 Video 21 - Define Multiple Constructors in Python
+
+https://youtu.be/fQjopulaxME
+
+========
+🔴 Video 22 - Encapsulation
+
+https://youtu.be/TFLo9m0jFEg
+
+========
+🔴 Video 23 - Private Methods
+
+https://youtu.be/aQz9_V8aoEw
+
+========
+🔴 Video 24 - Inheritance
+
+https://youtu.be/rY7zQ0zv-SM
+
+========
+🔴 Video 25 - Multiple Inheritance
+
+https://youtu.be/o_GrDGjRUuQ
+
+========
+🔴 Video 26 - Super()
+
+https://youtu.be/aBexJgZ6GjI
+
+========
+🔴 Video 27 - Composition
+
+https://youtu.be/lhiH-6ygGl8
+
+========
+🔴 Video 28 - Difference in Aggregation and Composition
+
+https://youtu.be/rOo_BosuJBE
+
+========
+🔴 Video 29 - Abstract Classes
+
+https://youtu.be/PDMe3wgAsWg
+
+========
+🔴 Video 30 - Exception Handling
+
+https://youtu.be/hJcv9JwiPlA
+
+========
+🔴 Video 31 - Try Except Else Finally
+
+https://youtu.be/qc5ec7UJbeU
+
+========
+🔴 Video 32 - if name == main:
+
+https://youtu.be/EJHeSRKWtfM
+
+========
+🔴 Video 33 - Python Iterators
+
+https://youtu.be/9G0hvmPbvmk
+
+========
+🔴 Video 34 - Python Generators
+
+https://youtu.be/i0toy3zfUUk
+
+========
+🔴 Video 35 - Python Command Line Arguments
+
+https://youtu.be/QILBGC7TApM
+
+========
+🔴 Video 36 - Lambda, filter, reduce, and map
+
+https://youtu.be/5bRDpzdcuf8
+
+========
+🔴 Video 37 - Python Closures + Nested Functions
+
+https://youtu.be/a0fOBCqMz10
+
+========
+🔴 Video 38 - Decorators
+
+https://youtu.be/o77mO0ZOzkI
+
+========
+🔴 Video 39 - Operator Overloading
+
+https://youtu.be/BqF_r0FDgEc
