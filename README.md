@@ -49,3 +49,8 @@ Output:
 |2020-05-30|[T-shirt,Basketb... |        3  |
 |2020-06-01|[Pencil, Book]      |        2  |
 |2020-06-02|[Mask]              |        1  |
+
+scenario - 7
+Input
+|sell_date | product    |
+|----------|------------|
